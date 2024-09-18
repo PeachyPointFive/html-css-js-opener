@@ -1,0 +1,14 @@
+h1 {
+
+animation-name: animated;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+
+}
+
+@keyframes animated {
+
+from {color: green;}
+to {color: red;}
+
+}
